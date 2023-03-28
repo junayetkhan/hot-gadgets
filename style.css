@@ -1,0 +1,26 @@
+.navbar{
+    float: right;
+    margin-top: -60px;
+    background-color: whitesmoke;
+     
+}
+h1{
+    padding-top: 185px;
+}
+.slide{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+       
+}
+.sa{
+    float: right;
+    padding-top: -12px;
+    color: rgb(255, 9, 144);
+}
+.phone{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: initial;
+
+}
